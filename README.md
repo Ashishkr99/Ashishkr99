@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👨‍💻 About Me
+Software Engineer | Angular | ASP.NET Core | SQL Server | Azure Certified
 
-<!--
-**Ashishkr99/Ashishkr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📜 Certifications
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+  https://learn.microsoft.com/en-us/users/ashishkumar-2716/credentials/certification/azure-fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- Angular, TypeScript, JavaScript  
+- ASP.NET Core Web API, C#  
+- SQL Server  
+- REST APIs  
+
+---
+
+## 🚀 Projects
+- Employee Management System (Angular + .NET)
+- Leave Management System
