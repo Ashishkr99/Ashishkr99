@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-Software Engineer | Angular | ASP.NET Core | SQL Server | Azure Certified
+Software Engineer | Angular | ASP.NET Core | SQL Server | Azure Fundamentals Certified | GitHub Copilot Certified
 
 ---
 
