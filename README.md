@@ -11,7 +11,7 @@ Software Engineer | Angular | ASP.NET Core | SQL Server | Azure Certified
 Credential ID: 1441B61DF37A926F  
 Earned: May 2026  
 Valid till: May 2028  
-[Add your certification verification link here](https://learn.microsoft.com/en-us/users/ashishkumar-2716/credentials/certification/github-copilot?tab=credentials-tab)
+https://learn.microsoft.com/en-us/users/ashishkumar-2716/credentials/certification/github-copilot?tab=credentials-tab
 
 ---
 
